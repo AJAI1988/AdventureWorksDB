@@ -1,0 +1,25 @@
+﻿<Project Sdk="MSBuild.Sdk.SqlProj/2.6.0">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>$(MSBuildProjectName.Replace(".","_"))</AssemblyName>
+    <BaseOutputPath>..\..\..\bin\dacpac</BaseOutputPath>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>..\..\..\bin\dacpac\AdventureWorksDB.xml</DocumentationFile>
+  </PropertyGroup>
+	
+<ItemGroup>
+	<Content Include="..\AdventureWorks\Database Triggers\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\Functions\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\Security\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\Storage\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\Stored Procedures\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\Tables\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\User Defined Types\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\Views\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\XMLSchemaCollections\**\*.sql"></Content>
+	<Content Include="..\AdventureWorks\**\*.sql"></Content>
+</ItemGroup>
+	
+</Project>

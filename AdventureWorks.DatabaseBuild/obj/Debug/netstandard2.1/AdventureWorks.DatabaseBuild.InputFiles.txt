@@ -1,0 +1,134 @@
+..\AdventureWorks\Database Triggers\ddlDatabaseTriggerLog.sql
+..\AdventureWorks\Functions\ufnGetAccountingEndDate.sql
+..\AdventureWorks\Functions\ufnGetAccountingStartDate.sql
+..\AdventureWorks\Functions\ufnGetContactInformation.sql
+..\AdventureWorks\Functions\ufnGetDocumentStatusText.sql
+..\AdventureWorks\Functions\ufnGetProductDealerPrice.sql
+..\AdventureWorks\Functions\ufnGetProductListPrice.sql
+..\AdventureWorks\Functions\ufnGetProductStandardCost.sql
+..\AdventureWorks\Functions\ufnGetPurchaseOrderStatusText.sql
+..\AdventureWorks\Functions\ufnGetSalesOrderStatusText.sql
+..\AdventureWorks\Functions\ufnGetStock.sql
+..\AdventureWorks\Functions\ufnLeadingZeros.sql
+..\AdventureWorks\Security\HumanResources.sql
+..\AdventureWorks\Security\Permissions.sql
+..\AdventureWorks\Security\Person.sql
+..\AdventureWorks\Security\Production.sql
+..\AdventureWorks\Security\Purchasing.sql
+..\AdventureWorks\Security\Sales.sql
+..\AdventureWorks\Storage\AW2016FullTextCatalog.sql
+..\AdventureWorks\Stored Procedures\uspGetBillOfMaterials.sql
+..\AdventureWorks\Stored Procedures\uspGetEmployeeManagers.sql
+..\AdventureWorks\Stored Procedures\uspGetManagerEmployees.sql
+..\AdventureWorks\Stored Procedures\uspGetWhereUsedProductID.sql
+..\AdventureWorks\Stored Procedures\uspLogError.sql
+..\AdventureWorks\Stored Procedures\uspPrintError.sql
+..\AdventureWorks\Stored Procedures\uspSearchCandidateResumes.sql
+..\AdventureWorks\Stored Procedures\uspUpdateEmployeeHireInfo.sql
+..\AdventureWorks\Stored Procedures\uspUpdateEmployeeLogin.sql
+..\AdventureWorks\Stored Procedures\uspUpdateEmployeePersonalInfo.sql
+..\AdventureWorks\Tables\Address.sql
+..\AdventureWorks\Tables\AddressType.sql
+..\AdventureWorks\Tables\AWBuildVersion.sql
+..\AdventureWorks\Tables\BillOfMaterials.sql
+..\AdventureWorks\Tables\BusinessEntity.sql
+..\AdventureWorks\Tables\BusinessEntityAddress.sql
+..\AdventureWorks\Tables\BusinessEntityContact.sql
+..\AdventureWorks\Tables\ContactType.sql
+..\AdventureWorks\Tables\CountryRegion.sql
+..\AdventureWorks\Tables\CountryRegionCurrency.sql
+..\AdventureWorks\Tables\CreditCard.sql
+..\AdventureWorks\Tables\Culture.sql
+..\AdventureWorks\Tables\Currency.sql
+..\AdventureWorks\Tables\CurrencyRate.sql
+..\AdventureWorks\Tables\Customer.sql
+..\AdventureWorks\Tables\DatabaseLog.sql
+..\AdventureWorks\Tables\Department.sql
+..\AdventureWorks\Tables\Document.sql
+..\AdventureWorks\Tables\EmailAddress.sql
+..\AdventureWorks\Tables\Employee.sql
+..\AdventureWorks\Tables\EmployeeDepartmentHistory.sql
+..\AdventureWorks\Tables\EmployeePayHistory.sql
+..\AdventureWorks\Tables\ErrorLog.sql
+..\AdventureWorks\Tables\Illustration.sql
+..\AdventureWorks\Tables\JobCandidate.sql
+..\AdventureWorks\Tables\Location.sql
+..\AdventureWorks\Tables\Password.sql
+..\AdventureWorks\Tables\Person.sql
+..\AdventureWorks\Tables\PersonCreditCard.sql
+..\AdventureWorks\Tables\PersonPhone.sql
+..\AdventureWorks\Tables\PhoneNumberType.sql
+..\AdventureWorks\Tables\Product.sql
+..\AdventureWorks\Tables\ProductCategory.sql
+..\AdventureWorks\Tables\ProductCostHistory.sql
+..\AdventureWorks\Tables\ProductDescription.sql
+..\AdventureWorks\Tables\ProductDocument.sql
+..\AdventureWorks\Tables\ProductInventory.sql
+..\AdventureWorks\Tables\ProductListPriceHistory.sql
+..\AdventureWorks\Tables\ProductModel.sql
+..\AdventureWorks\Tables\ProductModelIllustration.sql
+..\AdventureWorks\Tables\ProductModelProductDescriptionCulture.sql
+..\AdventureWorks\Tables\ProductPhoto.sql
+..\AdventureWorks\Tables\ProductProductPhoto.sql
+..\AdventureWorks\Tables\ProductReview.sql
+..\AdventureWorks\Tables\ProductSubcategory.sql
+..\AdventureWorks\Tables\ProductVendor.sql
+..\AdventureWorks\Tables\PurchaseOrderDetail.sql
+..\AdventureWorks\Tables\PurchaseOrderHeader.sql
+..\AdventureWorks\Tables\SalesOrderDetail.sql
+..\AdventureWorks\Tables\SalesOrderHeader.sql
+..\AdventureWorks\Tables\SalesOrderHeaderSalesReason.sql
+..\AdventureWorks\Tables\SalesPerson.sql
+..\AdventureWorks\Tables\SalesPersonQuotaHistory.sql
+..\AdventureWorks\Tables\SalesReason.sql
+..\AdventureWorks\Tables\SalesTaxRate.sql
+..\AdventureWorks\Tables\SalesTerritory.sql
+..\AdventureWorks\Tables\SalesTerritoryHistory.sql
+..\AdventureWorks\Tables\ScrapReason.sql
+..\AdventureWorks\Tables\Shift.sql
+..\AdventureWorks\Tables\ShipMethod.sql
+..\AdventureWorks\Tables\ShoppingCartItem.sql
+..\AdventureWorks\Tables\SpecialOffer.sql
+..\AdventureWorks\Tables\SpecialOfferProduct.sql
+..\AdventureWorks\Tables\StateProvince.sql
+..\AdventureWorks\Tables\Store.sql
+..\AdventureWorks\Tables\TransactionHistory.sql
+..\AdventureWorks\Tables\TransactionHistoryArchive.sql
+..\AdventureWorks\Tables\UnitMeasure.sql
+..\AdventureWorks\Tables\Vendor.sql
+..\AdventureWorks\Tables\WorkOrder.sql
+..\AdventureWorks\Tables\WorkOrderRouting.sql
+..\AdventureWorks\User Defined Types\AccountNumber.sql
+..\AdventureWorks\User Defined Types\Flag.sql
+..\AdventureWorks\User Defined Types\Name.sql
+..\AdventureWorks\User Defined Types\NameStyle.sql
+..\AdventureWorks\User Defined Types\OrderNumber.sql
+..\AdventureWorks\User Defined Types\Phone.sql
+..\AdventureWorks\Views\vAdditionalContactInfo.sql
+..\AdventureWorks\Views\vEmployee.sql
+..\AdventureWorks\Views\vEmployeeDepartment.sql
+..\AdventureWorks\Views\vEmployeeDepartmentHistory.sql
+..\AdventureWorks\Views\vIndividualCustomer.sql
+..\AdventureWorks\Views\vJobCandidate.sql
+..\AdventureWorks\Views\vJobCandidateEducation.sql
+..\AdventureWorks\Views\vJobCandidateEmployment.sql
+..\AdventureWorks\Views\vPersonDemographics.sql
+..\AdventureWorks\Views\vProductAndDescription.sql
+..\AdventureWorks\Views\vProductModelCatalogDescription.sql
+..\AdventureWorks\Views\vProductModelInstructions.sql
+..\AdventureWorks\Views\vSalesPerson.sql
+..\AdventureWorks\Views\vSalesPersonSalesByFiscalYears.sql
+..\AdventureWorks\Views\vStateProvinceCountryRegion.sql
+..\AdventureWorks\Views\vStoreWithAddresses.sql
+..\AdventureWorks\Views\vStoreWithContacts.sql
+..\AdventureWorks\Views\vStoreWithDemographics.sql
+..\AdventureWorks\Views\vVendorWithAddresses.sql
+..\AdventureWorks\Views\vVendorWithContacts.sql
+..\AdventureWorks\XMLSchemaCollections\AdditionalContactInfoSchemaCollection.sql
+..\AdventureWorks\XMLSchemaCollections\HRResumeSchemaCollection.sql
+..\AdventureWorks\XMLSchemaCollections\IndividualSurveySchemaCollection.sql
+..\AdventureWorks\XMLSchemaCollections\ManuInstructionsSchemaCollection.sql
+..\AdventureWorks\XMLSchemaCollections\ProductDescriptionSchemaCollection.sql
+..\AdventureWorks\XMLSchemaCollections\StoreSurveySchemaCollection.sql
+..\AdventureWorks\ExtendedProperties.sql
+..\AdventureWorks\FullTextIndexes.sql
