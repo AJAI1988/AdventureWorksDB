@@ -1,0 +1,13 @@
+C:\bin\dacpac\Debug\netstandard2.1\AdventureWorks_DatabaseBuild.deps.json
+C:\bin\dacpac\Debug\netstandard2.1\AdventureWorks_DatabaseBuild.dacpac
+C:\bin\dacpac\Debug\netstandard2.1\AdventureWorksDB.xml
+C:\DB\AdventureWorks2022\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks.DatabaseBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\DB\AdventureWorks2022\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks.DatabaseBuild.AssemblyInfoInputs.cache
+C:\DB\AdventureWorks2022\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks.DatabaseBuild.AssemblyInfo.cs
+C:\DB\AdventureWorks2022\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks_DatabaseBuild.dacpac
+C:\Users\Anuj\source\bin\dacpac\Debug\netstandard2.1\AdventureWorks_DatabaseBuild.deps.json
+C:\Users\Anuj\source\bin\dacpac\Debug\netstandard2.1\AdventureWorks_DatabaseBuild.dacpac
+C:\Users\Anuj\source\repos\AdventureWorksDB\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks.DatabaseBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuj\source\repos\AdventureWorksDB\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks.DatabaseBuild.AssemblyInfoInputs.cache
+C:\Users\Anuj\source\repos\AdventureWorksDB\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks.DatabaseBuild.AssemblyInfo.cs
+C:\Users\Anuj\source\repos\AdventureWorksDB\AdventureWorks.DatabaseBuild\obj\Debug\netstandard2.1\AdventureWorks_DatabaseBuild.dacpac
